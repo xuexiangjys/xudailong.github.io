@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 icon: heart
 type: page
@@ -13,10 +13,9 @@ type: page
 
 <iframe src="https://githubbadge.appspot.com/xuexiangjys?s=1" style="border: 0;height: 150px;width: 250px;overflow: hidden;" frameBorder="0"></iframe>
 
-
+> 两年工作经验，一年架构经验，三年Github开源经验, 擅长设计模式，架构设计，移动设备通讯。热爱技术，常年活跃在各大移动开发社区，对前沿技术保持高度的学习和关注。
 
 ## 联系我
-
  
  [![GitHub](https://img.shields.io/badge/GitHub-xuexiangjys-blue.svg)](https://github.com/xuexiangjys)
  [![CSDN](https://img.shields.io/badge/CSDN-xuexiangjys-green.svg)](http://blog.csdn.net/xuexiangjys)
