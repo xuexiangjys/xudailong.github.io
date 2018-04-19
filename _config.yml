@@ -7,15 +7,15 @@
 
 # Site settings
 title: 薛翔的技术专栏
-brief-intro: Android Coder
+brief-intro: 专注移动开发
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xuexiangjys.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
+twitter_username:
+facebook_username:
 github_username:  xuexiangjys
 email: xuexiangjys@163.com
 weibo_username: xuexiangjys
