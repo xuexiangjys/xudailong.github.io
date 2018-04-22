@@ -32,6 +32,6 @@ type: page
 * [掘金](https://juejin.im/user/598feef55188257d592e56ed)
 * [微博](http://weibo.com/xuexiangjys)
 * [知乎](https://www.zhihu.com/people/xuexiangjys)
-* e-mail:xuexiangjys@163.com
-* QQ交流群:602082750
+* [邮箱:xuexiangjys@163.com](mailto:xuexiangjys@163.com)
+* [QQ交流群:602082750](http://shang.qq.com/wpa/qunwpa?idkey=9922861ef85c19f1575aecea0e8680f60d9386080a97ed310c971ae074998887)
 
