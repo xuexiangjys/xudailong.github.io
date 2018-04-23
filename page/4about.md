@@ -9,11 +9,9 @@ type: page
 * content
 {:toc}
 
-<iframe src="https://githubbadge.appspot.com/xuexiangjys?s=1" style="border: 0;height: 150px;width: 250px;overflow: hidden;" frameBorder="0"></iframe>
-
 ## 关于我
 
-> 两年工作经验，一年架构经验，三年Github开源经验, 擅长设计模式，架构设计，移动设备通讯。热爱技术，常年活跃在各大移动开发社区，对前沿技术保持高度的学习和关注。
+> 三年工作经验，二年架构经验，四年Github开源经验, 擅长设计模式，架构设计，移动设备通讯。热爱技术，常年活跃在各大移动开发社区，对前沿技术保持高度的学习和关注。
 
 ## 联系我
  
@@ -35,3 +33,6 @@ type: page
 * [邮箱:xuexiangjys@163.com](mailto:xuexiangjys@163.com)
 * [QQ交流群:602082750](http://shang.qq.com/wpa/qunwpa?idkey=9922861ef85c19f1575aecea0e8680f60d9386080a97ed310c971ae074998887)
 
+## GitHub
+
+<iframe src="https://githubbadge.appspot.com/xuexiangjys?s=1" style="border: 0;height: 150px;width: 250px;overflow: hidden;" frameBorder="0"></iframe>
