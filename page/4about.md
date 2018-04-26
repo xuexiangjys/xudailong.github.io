@@ -13,6 +13,12 @@ type: page
 
 > 三年工作经验，二年架构经验，四年Github开源经验, 擅长设计模式，架构设计，移动设备通讯。热爱技术，常年活跃在各大移动开发社区，对前沿技术保持高度的学习和关注。
 
+* 如果你对移动开发技术比较热爱，欢迎加入我的[GitHub开源交流群：602082750](http://shang.qq.com/wpa/qunwpa?idkey=9922861ef85c19f1575aecea0e8680f60d9386080a97ed310c971ae074998887).
+
+* 如果你想学习Android开源框架知识，欢迎订阅我的CSDN博客专栏[我的Android开源之旅](https://blog.csdn.net/column/details/21427.html),里面将不定期更新我最新研究的Android开源成果。
+
+* 如果你有意向与我进行技术交流或者合作，欢迎发邮件至[我的163邮箱](mailto:xuexiangjys@163.com)，谢谢！
+
 ## 联系我
  
  [![GitHub](https://img.shields.io/badge/GitHub-xuexiangjys-blue.svg)](https://github.com/xuexiangjys)
