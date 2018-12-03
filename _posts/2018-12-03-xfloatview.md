@@ -2,7 +2,7 @@
 layout: post
 title:  "XFloatView 一个简易的悬浮窗实现方案"
 date:   2018-12-03 12:43:25
-categories: Android UI
+categories: AndroidUI
 tags: view
 author: xuexiangjys
 ---
