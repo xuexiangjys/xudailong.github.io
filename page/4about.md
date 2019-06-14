@@ -42,5 +42,6 @@ type: page
 ## GitHub
 
 * [我的GitHub技术统计](https://profile-summary-for-github.com/user/xuexiangjys)
+* [我的技术排名](http://git-awards.com/users/search?login=xuexiangjys)
 
 <iframe src="https://githubbadge.appspot.com/xuexiangjys?s=1" style="border: 0;height: 150px;width: 250px;overflow: hidden;" frameBorder="0"></iframe>
